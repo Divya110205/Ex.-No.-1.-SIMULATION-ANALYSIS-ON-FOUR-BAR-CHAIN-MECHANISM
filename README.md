@@ -53,11 +53,14 @@
 
 
 ## Output:
-![image](https://github.com/Divya110205/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119404855/8ee8120e-0ad3-4a01-94c6-58afe0bcd6b0)
+![image](https://github.com/Divya110205/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119404855/6dbf0cbe-2d79-4ff6-b720-df32b4a39a15)
 
+![image](https://github.com/Divya110205/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119404855/bfe3ed77-9134-4673-a76c-57e7f8b63236)
+
+![image](https://github.com/Divya110205/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119404855/d649d81a-3273-4b3b-a49a-3bd392cc1444)
 
 ### Name: DIVYA.A
 ### Register Number: 212222230034
 
 ## RESULT:
- ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
+Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.

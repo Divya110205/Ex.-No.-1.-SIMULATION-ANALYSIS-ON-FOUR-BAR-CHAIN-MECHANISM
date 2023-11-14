@@ -11,12 +11,19 @@ To determine & simulate the displacement & velocity analysis for the given four 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/03952954-387e-4fd3-a1a0-a8dd4b82ae07)
 
 ## REQUIREMENTS:
+
 ●	Mech Analyzer software.
+
 ●	Processor: Minimum 1.5 GHz
+
 ●	RAM: Minimum 512 MB
+
 ●	Operating System: Windows XP, Windows Vista, Windows 7, Windows 8 or higher.
+
 ●	Dependencies: Microsoft .Net 2.0 framework
+
 ●	Mini Drafter.
+
 ●	Geometry instruments.
 
 ## PROCEDURE:
@@ -60,6 +67,7 @@ Thus, link CD revolves with ωcd = 4 rad/s (clockwise about D)
 ![image](https://github.com/Divya110205/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119404855/d649d81a-3273-4b3b-a49a-3bd392cc1444)
 
 Name: DIVYA.A
+
 Register Number: 212222230034
 
 ## RESULT:
